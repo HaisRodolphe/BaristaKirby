@@ -35,3 +35,4 @@ function getCanvas() {
  * On démarre l'application par la fonction init
  */
 window.addEventListener("load", init);
+}
