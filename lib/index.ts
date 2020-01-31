@@ -14,6 +14,7 @@ context.beginPath();
 
 // on restaure le dernier contexte sauvegardé avec save();
 context.restore();
+}
 
 // Fin configuration KIRBY
 /*
@@ -35,4 +36,3 @@ function getCanvas() {
  * On démarre l'application par la fonction init
  */
 window.addEventListener("load", init);
-}
